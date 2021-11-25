@@ -572,7 +572,7 @@ body {
 
 .schedule-content {
 	padding: 0px 10px 20px 10px;
-	border-bottom: 2px solid #f23838ff;
+	border-bottom: 2px solid #f23838ff ;
 }
 
 .schedule-date {
@@ -583,8 +583,6 @@ body {
 
 .schedule-title {
 	font-size: 1.1em;
-	margin-top: 5px;
-	color: #293d3d;
 }
 
 .schedule-text {
@@ -593,7 +591,7 @@ body {
 	color: #293d3d;
 }
 
-.schedule-3 .schedule-content {
+.schedule-4 .schedule-content {
 	border-bottom: none;
 }
 
@@ -823,18 +821,6 @@ body {
 
 .frame5 a {
 	color: white;
-}
-
-.sponsor-icons .sponsor-icon.advantIcon img {
-	width: 50%;
-}
-
-.sponsor-icons .sponsor-icon.rawIcon img {
-	width: 40%;
-}
-
-.sponsorTitle {
-	color: #10333c;
 }
 
 /***********************
