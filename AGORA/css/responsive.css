@@ -44,6 +44,9 @@
 	.orgdev-text4 p{
 		padding-top: 40px;
 	}
+	.orgdev-text5 p{
+		padding-top: 40px;
+	}
 	.org-dev .od .ordev1{
 		width: 1000px;
 		margin-left: -307px;
@@ -95,8 +98,22 @@
 		height: 110%;
 		margin-top: 10px;
 	}
+	.org-dev .od .ordev5{
+		width: 1000px;
+		margin-left: -307px;
+		margin-top: 30px;
+		height: 550px;
+	}
+	.org-dev .od .ordev5 .ordev-img5 img{
+		width: 90%;
+		padding-top: 20px;
+		margin-left: -25px;
+		height: 110%;
+		margin-top: 10px;
+	}
 	.frame1-left .content .devfolio #devfolio-apply-now{
 		margin-left: 50px;
+		width: 208px;
 	}
 	.faq {
 		font-size: 1em;
@@ -146,11 +163,6 @@
 	.frame4-right {
 		left: 0px;	
 	}
-
-	.sponsor-icons .sponsor-icon.dev-icon img {
-		width: 90%;
-	}
-
 	.prize {
 		width: 90%;
 		margin: 5%;
